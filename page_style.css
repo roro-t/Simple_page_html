@@ -2,6 +2,17 @@ h1 {
     text-align: center;
     color: brown;
 }
-p {
 
+p {
+    margin: 100px 300px 50px 300px;
+    font-size: 20px;
+}
+
+#image_mario img {
+    width: 800px;
+    height: auto;
+}
+
+#image_mario {
+    text-align: center;
 }
