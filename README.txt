@@ -1,0 +1,1 @@
+le projet consiste a créer une page HTML simple pour l'activité Openclassroom.
